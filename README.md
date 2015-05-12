@@ -6,3 +6,4 @@ Add merge
 working
 git push origin dev
 friend 1
+my friend2
